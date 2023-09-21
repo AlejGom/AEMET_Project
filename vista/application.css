@@ -1,0 +1,32 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.fondo{
+	-fx-background-image: url("../icons/fondo.png");
+ 	-fx-background-repeat: stretch;  
+	-fx-background-size: 1275 575;
+    -fx-background-position: center center;
+	
+}
+
+.panel{
+	-fx-border-color: BLACK;
+	-fx-background-color: #D29552
+}
+.tempMax{
+	-fx-text-fill: red;
+}
+.tempMin{
+	-fx-text-fill: blue;
+}
+.sensMax{
+	-fx-text-fill: red;
+}
+.sensMin{
+	-fx-text-fill: blue;
+}
+.velViento{
+		-fx-text-fill: white;
+}
+.dirViento{
+		-fx-text-fill: white;
+}

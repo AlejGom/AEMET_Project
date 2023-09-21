@@ -1,0 +1,51 @@
+Despejado
+Despejado noche
+Poco nuboso
+Poco nuboso noche
+Intervalos nubosos
+Intervalos nubosos noche
+Nuboso
+Nuboso noche
+Muy nuboso
+Cubierto
+Nubes altas
+Nubes altas noche
+Intervalos nubosos con lluvia escasa
+Intervalos nubosos con lluvia escasa noche
+Nuboso con lluvia escasa
+Nuboso con lluvia escasa noche
+Muy nuboso con lluvia escasa
+Cubierto con lluvia escasa
+Intervalos nubosos con lluvia
+Intervalos nubosos con lluvia noche
+Nuboso con lluvia
+Nuboso con lluvia noche
+Muy nuboso con lluvia
+Cubierto con lluvia
+Intervalos nubosos con nieve escasa
+Intervalos nubosos con nieve escasa noche
+Nuboso con nieve escasa
+Nuboso con nieve escasa noche
+Muy nuboso con nieve escasa
+Cubierto con nieve escasa
+Intervalos nubosos con nieve
+Intervalos nubosos con nieve noche
+Nuboso con nieve
+Nuboso con nieve noche
+Muy nuboso con nieve
+Cubierto con nieve
+Intervalos nubosos con tormenta
+Intervalos nubosos con tormenta noche
+Nuboso con tormenta
+Nuboso con tormenta noche
+Muy nuboso con tormenta
+Cubierto con tormenta
+Intervalos nubosos con tormenta y lluvia escasa
+Intervalos nubosos con tormenta y lluvia escasa noche
+Nuboso con tormenta y lluvia escasa
+Nuboso con tormenta y lluvia escasa noche
+Muy nuboso con tormenta y lluvia escasa
+Cubierto con tormenta y lluvia escasa
+Niebla
+Bruma
+Calima
